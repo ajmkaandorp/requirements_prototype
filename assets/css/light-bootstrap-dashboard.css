@@ -423,8 +423,9 @@ body > .navbar-collapse {
     background: -webkit-linear-gradient(top, #9368E9 0%, #943bea 100%);
     background: -o-linear-gradient(top, #9368E9 0%, #943bea 100%);
     background: -ms-linear-gradient(top, #9368E9 0%, #943bea 100%);
-    background: linear-gradient(to bottom, #9368E9 0%, #943bea 100%);
-    background-size: 150% 150%; }
+    background: linear-gradient(to bottom, #353535 0%, #000000 100%);    
+    background-size: 150% 150%; }    
+
 
 .main-panel {
   background: rgba(203, 203, 210, 0.15);
