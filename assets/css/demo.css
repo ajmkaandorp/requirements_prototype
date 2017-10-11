@@ -59,3 +59,10 @@
 .table-upgrade td:nth-child(3){
     text-align: center;
 }
+.disrupted {
+        font-size: 32px !important;
+        font-family: monospace !important;
+}
+.disrupted * {
+    font-family: inherit !important;
+}
